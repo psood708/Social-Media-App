@@ -5,7 +5,7 @@ mmodule.exports = {
   theme: {
     extend: {
       margin: {
-        320: '320px',
+        320: '320px', 
       },
       width: {
         190: '190px',
